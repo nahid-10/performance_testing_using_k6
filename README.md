@@ -58,4 +58,3 @@ GitHub: https://github.com/nahid-10
 
 ---
 
-⭐ *If you find this repository useful, please give it a star!* ⭐
